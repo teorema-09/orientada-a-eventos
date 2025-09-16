@@ -161,3 +161,4 @@ entry_fecha.bind("<KeyRelease>", val_fecha_de_fabricacion)
 ventana.protocol("WM_DELETE_WINDOW", el_usuario_qeuiere_salir)
 ventana.mainloop()
 
+
